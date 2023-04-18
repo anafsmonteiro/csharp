@@ -1,0 +1,8 @@
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\bytebank\bytebank\bin\Debug\bytebank.exe.config
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\bytebank\bytebank\bin\Debug\bytebank.exe
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\bytebank\bytebank\bin\Debug\bytebank.pdb
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\bytebank\bytebank\obj\Debug\bytebank.csproj.AssemblyReference.cache
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\bytebank\bytebank\obj\Debug\bytebank.csproj.SuggestedBindingRedirects.cache
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\bytebank\bytebank\obj\Debug\bytebank.csproj.CoreCompileInputs.cache
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\bytebank\bytebank\obj\Debug\bytebank.exe
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\bytebank\bytebank\obj\Debug\bytebank.pdb

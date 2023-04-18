@@ -1,0 +1,8 @@
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\consultorio_medico\consultorio_medico\bin\Debug\consultorio_medico.exe.config
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\consultorio_medico\consultorio_medico\bin\Debug\consultorio_medico.exe
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\consultorio_medico\consultorio_medico\bin\Debug\consultorio_medico.pdb
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\consultorio_medico\consultorio_medico\obj\Debug\consultorio_medico.csproj.AssemblyReference.cache
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\consultorio_medico\consultorio_medico\obj\Debug\consultorio_medico.csproj.SuggestedBindingRedirects.cache
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\consultorio_medico\consultorio_medico\obj\Debug\consultorio_medico.csproj.CoreCompileInputs.cache
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\consultorio_medico\consultorio_medico\obj\Debug\consultorio_medico.exe
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\consultorio_medico\consultorio_medico\obj\Debug\consultorio_medico.pdb
