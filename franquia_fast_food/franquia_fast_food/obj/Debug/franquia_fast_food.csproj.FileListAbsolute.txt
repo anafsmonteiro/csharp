@@ -1,0 +1,8 @@
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\franquia_fast_food\franquia_fast_food\bin\Debug\franquia_fast_food.exe.config
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\franquia_fast_food\franquia_fast_food\bin\Debug\franquia_fast_food.exe
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\franquia_fast_food\franquia_fast_food\bin\Debug\franquia_fast_food.pdb
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\franquia_fast_food\franquia_fast_food\obj\Debug\franquia_fast_food.csproj.AssemblyReference.cache
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\franquia_fast_food\franquia_fast_food\obj\Debug\franquia_fast_food.csproj.SuggestedBindingRedirects.cache
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\franquia_fast_food\franquia_fast_food\obj\Debug\franquia_fast_food.csproj.CoreCompileInputs.cache
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\franquia_fast_food\franquia_fast_food\obj\Debug\franquia_fast_food.exe
+C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\franquia_fast_food\franquia_fast_food\obj\Debug\franquia_fast_food.pdb
