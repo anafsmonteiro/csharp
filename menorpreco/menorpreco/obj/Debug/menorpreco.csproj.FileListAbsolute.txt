@@ -1,8 +1,0 @@
-C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\menorpreco\menorpreco\bin\Debug\menorpreco.exe.config
-C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\menorpreco\menorpreco\bin\Debug\menorpreco.exe
-C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\menorpreco\menorpreco\bin\Debug\menorpreco.pdb
-C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\menorpreco\menorpreco\obj\Debug\menorpreco.csproj.AssemblyReference.cache
-C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\menorpreco\menorpreco\obj\Debug\menorpreco.csproj.SuggestedBindingRedirects.cache
-C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\menorpreco\menorpreco\obj\Debug\menorpreco.csproj.CoreCompileInputs.cache
-C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\menorpreco\menorpreco\obj\Debug\menorpreco.exe
-C:\Users\125258\Documents\Alura\Csharp\explorando-a-linguagem\menorpreco\menorpreco\obj\Debug\menorpreco.pdb
