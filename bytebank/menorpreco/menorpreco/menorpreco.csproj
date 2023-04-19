@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2994C84C-8C82-4209-BFE8-72FAB42D5D99}</ProjectGuid>
+    <ProjectGuid>{A3CF0A75-9D57-4614-9A58-6804DD253E38}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>bytebank</RootNamespace>
-    <AssemblyName>bytebank</AssemblyName>
+    <RootNamespace>menorpreco</RootNamespace>
+    <AssemblyName>menorpreco</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,14 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Titular\Cliente.cs" />
-    <Compile Include="Contas\ContaCorrente.cs" />
+    <Compile Include="EstoqueProdutos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
